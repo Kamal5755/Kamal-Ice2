@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm installe
+      - npm installe1
   build:
     commands:
       - echo "Build completed"
